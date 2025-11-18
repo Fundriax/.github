@@ -2,6 +2,7 @@
 </p>
 Fundriax is a modern personal financial management platform designed for individuals to track, manage, and optimize their multi‑bank, multi‑currency financial ecosystem. The platform integrates banks, cards, payment channels, and intelligent financial tracking to provide users with real‑time insights, budgeting controls, and financial clarity.
 
+
 Fundriax aims to simplify personal finance by consolidating accounts, transactions, credit cycles, spending categories, and reports into one unified system across web and mobile.
 
 ## Key Objectives
